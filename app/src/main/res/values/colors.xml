@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_666">#666666</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_green">#00FF01</color>
+    <color name="color_gray_333">#333</color>
+    <color name="color_gray_666">#666</color>
+    <color name="color_gray_999">#999</color>
+    <color name="color_gray_9999">#9999</color>
+
+</resources>

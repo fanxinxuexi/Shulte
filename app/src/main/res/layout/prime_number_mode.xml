@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project.myshulteproject.com.util.ExpandLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/el_prime_number"
+    android:gravity="center_horizontal"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/tv_prime_number_5"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="素数(5 X 5)"
+            android:textColor="#999"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="180dp"
+            android:layout_height="0.5dp"
+            android:background="#999"
+            tools:ignore="Suspicious0dp" />
+
+    </LinearLayout>
+
+</project.myshulteproject.com.util.ExpandLayout>
